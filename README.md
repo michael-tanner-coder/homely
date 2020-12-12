@@ -2,6 +2,8 @@
 
 In-development application for organizing, cleaning, and maintaining your home.
 
+Design: https://www.figma.com/proto/Vytxv25nneswEJHw5vZFGZ/Homely?node-id=1%3A4&scaling=scale-down-width
+
 ## Current features
 
 * Currently the app allows users to create rooms, tasks, and items 
