@@ -4,7 +4,7 @@ In-development application for organizing, cleaning, and maintaining your home.
 
 ## Current features
 
-* Currently the app allows users to create rooms, tasks, and items. 
-* Items are the individual belongings for a user, stored as an inventory. 
+* Currently the app allows users to create rooms, tasks, and items 
+* Items are the individual belongings for a user, stored as an inventory
 * Tasks are actions performed on items (sweeping, dusting, sanitizing, etc)
-* Rooms contain both tasks and items as a means of organizing the user's cleaning duties.
+* Rooms contain both tasks and items as a means of organizing the user's cleaning duties
